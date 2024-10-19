@@ -1,0 +1,48 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.vscode/
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+bin/
+obj/
+out/
+artifacts/
+
+# User secrets
+secrets.json
+
+# Visual Studio Code
+.vscode/
+
+# ASP.NET Core
+*.db
+*.pdb
+*.mdb
+
+# Rider
+.idea/
+*.sln.iml
+
+
+# NuGet Packages
+*.nupkg
+packages/
+*.snupkg
+
+# Coverage files
+*.coverage
+*.coveragexml
+coverage/
+
+# Others
+*.log
+*.tmp
+*.bak
+*.swp
